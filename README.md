@@ -1,7 +1,10 @@
-
 ## 👋 **Hello everyone, Daniel is my name** 👌  👨‍💻
 
-<hr>	
+<hr>
+
+![](Personal Banner.gif)
+
+**Student at Ghana Communication Technology**
 
 My passion lies between the ends of  front and back-end development, and my foremost concerns are object-oriented and user-centered studies. Extremely performed also in manipulating optical regime. A frequent contributor to system intensification or improvement*.*
 
@@ -38,4 +41,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
