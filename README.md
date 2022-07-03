@@ -1,5 +1,5 @@
-### Hi there 👋
-#### **Hello Everyone, Daniel is My name** 👌  👨‍💻
+
+## 👋 **Hello everyone, Daniel is my name** 👌  👨‍💻
 
 <hr>	
 
@@ -9,13 +9,19 @@ The **knowledge** and educational qualifications I have gained to date have give
 
 **My Tech Stack**
 
-<a href="#" style="border:0;background-color:#0060A0;padding:5px 10px;border-radius:15px;color: white; text-decoration: none;">HTML5</a>  <a href="#" style="border:0;background-color:#F9B600;padding:5px 10px;border-radius:15px;color: #0062A0; text-decoration: none;">CSS3, SASS</a>  <a href="#" style="border:0;background-color:#0082A0;padding:5px 10px;border-radius:15px;color: white; text-decoration: none;">PHP</a>  <a href="#" style="border:0;background-color:#F9B600;padding:5px 10px;border-radius:15px;color: #0062A0; text-decoration: none;">JavaScript</a>  <a href="#" style="border:0;background-color:#0082A0;padding:5px 10px;border-radius:15px;color: white; text-decoration: none;">MySQL</a> 
+- HTML5
+- CSS3, SASS
+- PHP
+- MySQL
+- JavaScript
 
 
 
 ***Projects and Works***
 
 *Uploading* ... 🚀
+
+🌱 *I’m currently learning Java & Python*
 
 🔭 I’m currently working on School Management System
 
