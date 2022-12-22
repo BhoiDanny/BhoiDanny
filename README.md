@@ -10,6 +10,9 @@ My passion lies between the ends of  front and back-end development, and my fore
 
 The **knowledge** and educational qualifications I have gained to date have given me more opportunities to explore the various technological fields and their branches. When it comes to **web development**, I am well versed in working as part of a team to formulate and design **corporate websites** and handle challenging projects that require **extensive** coding modifications.
 
+Full stack PHP developer with over 5 years of experience in developing and maintaining web applications. Proficient in PHP, MySQL, JavaScript, HTML, and CSS. Experienced in both front-end and back-end development, with a strong focus on creating user-friendly and visually appealing websites. Skilled in developing custom solutions for clients, as well as working with popular PHP
+frameworks such as Laravel and CodeIgniter. Able to work independently or as part of a team, and always seeking to learn and improve my skills. Looking for new opportunities to utilize my skills and contribute to the success of a dynamic organization
+
 **My Tech Stack**
 
 - HTML5
