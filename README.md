@@ -25,6 +25,8 @@ frameworks such as Laravel and CodeIgniter. Able to work independently or as par
 
 ***Projects and Works***
 
+*Visit my* [Portfolio Site](https://sannytech.me)
+
 *Uploading* ... 🚀
 
 🌱 *I’m currently learning Java & Python*
