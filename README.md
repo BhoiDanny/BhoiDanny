@@ -4,7 +4,6 @@
 
 ![](https://github.com/BhoiDanny/BhoiDanny/blob/b2cfab6e8810fd77a9cd1964d1b71067f1481fa2/Personal%20Banner.gif)
 
-**Student at Ghana Communication Technology**
 
 My passion lies between the ends of  front and back-end development, and my foremost concerns are object-oriented and user-centered studies. Extremely performed also in manipulating optical regime. A frequent contributor to system intensification or improvement*.*
 
